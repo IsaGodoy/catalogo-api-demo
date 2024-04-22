@@ -1,0 +1,1794 @@
+{
+    "retorno_codigo": 0,
+    "retorno_mensaje": "OK",
+    "retorno_articulos": [
+        {
+            "clavePadreProducto": "99991627148894",
+            "nombreProducto": "MUEBLE DE COCINA KITS PARANA ORION DE 6 PUERTAS",
+            "pathCompletoClasificacion": "MUEBLES | MUEBLES DE COCINA | MUEBLES DE COCINA",
+            "descripcionClasificacion": "MUEBLES DE COCINA",
+            "descripcionProducto": "El Mueble de cocina Kits Paraná Orion, posee un excelente diseño que hará de él un complemento perfecto para la cocina de tu hogar. Está elaborado con materiales de primera calidad lo que te ofrece durabilidad, podrás mantener todos tus utensilios bien guardados. Las bisagras y manijas de cajones y puertas son 100% metálicas. Cuenta con espacio para colocar un horno eléctrico o microondas.<BR>Este mueble cuenta con un amplio espacio para guardar muchas cosas y hacer que tu cocina se vea ordenada siempre. No te quedes con las ganas de tenerlo en tu hogar y conseguir la cocina que siempre quisiste.<BR>Con la compra de este mueble te regalamos el montaje, nuestro servicio de atención al cliente se pondrá en contacto para la gestión del mismo. Los tiempos de montaje son entre 48 a 72 horas hábiles después de la entrega del producto. ",
+            "resumenProducto": "Mueble de cocina Kits Paraná Orion, posee 6 puertas, 3 cajones con corredores metálicos y 7 compartimientos, sus dimensiones son alto de 1,38 metros, ancho de 1,95 metros y profundidad de 0,39 metros. Cuenta con espacio para horno o microondas.",
+            "marcaProducto": "KITS PARANA",
+            "listaAtributos": [
+                {
+                    "descripcionAtributo": "ALTO",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "1,38 MTS"
+                },
+                {
+                    "descripcionAtributo": "ANCHO",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "0,39 MTS"
+                },
+                {
+                    "descripcionAtributo": "CANTIDAD DE CAJONES",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "3"
+                },
+                {
+                    "descripcionAtributo": "CANTIDAD DE PUERTAS",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "6"
+                },
+                {
+                    "descripcionAtributo": "CANTIDAD DE COMPARTIMIENTOS",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "7"
+                },
+                {
+                    "descripcionAtributo": "BACHA",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "NO"
+                },
+                {
+                    "descripcionAtributo": "LARGO",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "1,95 MTS"
+                }
+            ],
+            "listaPalabrasClave": [],
+            "detalleProductos": [
+                {
+                    "claveProducto": "99991627179402",
+                    "codigoAlfanumerico": "MUE.COC.PAR.OR.2 R-D",
+                    "color": "ROVERE/DUBAI",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 35600,
+                        "precioContadoLista": 1162000.0,
+                        "precioContadoFinal": 872000.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 9,
+                                "montoCuota": 133000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 11,
+                                "montoCuota": 114000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 13,
+                                "montoCuota": 99000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 15,
+                                "montoCuota": 92000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 6,
+                                "montoCuota": 194000.0
+                            }
+                        ],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                },
+                {
+                    "claveProducto": "99991627179401",
+                    "codigoAlfanumerico": "MUE.COC.PAR.OR.2 A-E",
+                    "color": "ARENA/EBANO",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 63606,
+                        "precioContadoLista": 1452000.0,
+                        "precioContadoFinal": 1089000.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 9,
+                                "montoCuota": 168000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 11,
+                                "montoCuota": 144000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 13,
+                                "montoCuota": 126000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 18,
+                                "montoCuota": 98000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 15,
+                                "montoCuota": 113000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 6,
+                                "montoCuota": 242000.0
+                            }
+                        ],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clavePadreProducto": "99991627179165",
+            "nombreProducto": "AIRE ACONDICIONADO CASSETTE FAMA DE 60.000 BTU",
+            "pathCompletoClasificacion": "CLIMATIZACIÓN | ACONDICIONADORES DE AIRE | PISO TECHO",
+            "descripcionClasificacion": "PISO TECHO",
+            "descripcionProducto": "Con este aire acondicionado Fama tipo Cassette ya no tendrás que preocuparte por el implacable calor dentro de tus oficinas debido a que su distribución de aire lo realiza los 4 lados del equipo, cuenta con capacidad de 60000 BTU, alta eficiencia, carga de gas R410, sistema de drenaje con bomba de agua y control remoto. Con este equipo podrás obtener un ambiente laboral fresco y silencioso, debido a que cuenta con un bajo nivel de ruido, permitiéndote optimizar tu concentración y tu trabajo. Ideal para viviendas, dormitorios, farmacias, oficinas corporativas, consultorios, comedores, sala de living, cocinas, quinchos y salas de juego. Si desea realizar la solicitud de instalación del aire, recomendamos que se comunique con nuestro Centro de Atención al Cliente al 021 288 3000 para su gestión.<b><i>Estimado cliente, le recordamos que para acceder a la garantía de su producto es necesario utilizar los servicios de instalación y asistencia de nuestra red nacional de Servicios Técnicos Autorizados. Para consultas llame al 021 288 3000 opción 4 (Servicio Técnico).</b></i>",
+            "resumenProducto": "Aire acondicionado Fama tipo Cassette con capacidad de 60000 BTU, bajo nivel de ruido, distribución del aire a los 4 lados del equipo, con función en frío o calor, alta eficiencia, carga de gas R410, sistema de drenaje con bomba de agua y control remoto.  ",
+            "marcaProducto": "FAMA",
+            "listaAtributos": [
+                {
+                    "descripcionAtributo": "TIPO",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "CASSETTE"
+                },
+                {
+                    "descripcionAtributo": "ANCHO CAJA 2",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "0,95"
+                },
+                {
+                    "descripcionAtributo": "PESO CAJA 2",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "35"
+                },
+                {
+                    "descripcionAtributo": "ALTO CAJA 3",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "0,08"
+                },
+                {
+                    "descripcionAtributo": "ANCHO CAJA 3",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "1,035"
+                },
+                {
+                    "descripcionAtributo": "LARGO CAJA 3",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "1,035"
+                },
+                {
+                    "descripcionAtributo": "PESO CAJA 3",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "9"
+                },
+                {
+                    "descripcionAtributo": "POTENCIA",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "60.000 BTU"
+                },
+                {
+                    "descripcionAtributo": "ALTO CAJA 1",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "1,365"
+                },
+                {
+                    "descripcionAtributo": "ANCHO CAJA 1",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "1,03"
+                },
+                {
+                    "descripcionAtributo": "PESO CAJA 1",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "111"
+                },
+                {
+                    "descripcionAtributo": "ALTO CAJA 2",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "0,325"
+                },
+                {
+                    "descripcionAtributo": "LARGO CAJA 2",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "0,95"
+                },
+                {
+                    "descripcionAtributo": "COLOR",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "BLANCO"
+                }
+            ],
+            "listaPalabrasClave": [
+                {
+                    "descripcionPalabraClave": "aire"
+                },
+                {
+                    "descripcionPalabraClave": "aire acondicionado"
+                },
+                {
+                    "descripcionPalabraClave": "aire para sala"
+                }
+            ],
+            "detalleProductos": [
+                {
+                    "claveProducto": "99991627179165",
+                    "codigoAlfanumerico": "AA.FAMA.AF-60CAHR",
+                    "color": "BLANCO",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 99176,
+                        "precioContadoLista": 20430000.0,
+                        "precioContadoFinal": 15323000.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 9,
+                                "montoCuota": 2415000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 11,
+                                "montoCuota": 2062000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 13,
+                                "montoCuota": 1786000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 15,
+                                "montoCuota": 1584000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 18,
+                                "montoCuota": 1365000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 6,
+                                "montoCuota": 3405000.0
+                            }
+                        ],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clavePadreProducto": "99991627180726",
+            "nombreProducto": "SOMIER SUPER SPUMA SUPERNOVA",
+            "pathCompletoClasificacion": "MUEBLES | MUEBLES DE DORMITORIO | SOMMIER",
+            "descripcionClasificacion": "SOMMIER",
+            "descripcionProducto": "El Juego de Somier Super Spuma Supernova es un producto que se destaca por contar con una espuma que distribuye proporcionalmente la presión del cuerpo, lo que da una sensación de ingravidez similar a los colchones de agua. Está elaborado con tejido de punto con tratamiento antiácaros y antihongos, la higiene del colchón y la limpieza del mismo se puede realizar con facilidad. Su núcleo de resortes independientes Pocket Coil, funcionan como amortiguadores totalmente independientes, absorbiendo el peso y movimientos sin transmitirlo al resto del colchón.",
+            "resumenProducto": "Juego de Somier Super Spuma Supernova, soporta un peso máximo de 150 kilos, posee pillow top que eleva el descanso al mayor confort, resortes independientes pocket coil y está fabricado con tejido que inhibe la creación de ácaros. La altura del somier es de 0,71 metros.",
+            "marcaProducto": "SUPER SPUMA",
+            "listaAtributos": [
+                {
+                    "descripcionAtributo": "ALTO",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "0,71 MTS"
+                },
+                {
+                    "descripcionAtributo": "ANCHO",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "1,40 MTS"
+                },
+                {
+                    "descripcionAtributo": "CAPACIDAD",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "150 KILOS"
+                },
+                {
+                    "descripcionAtributo": "CATEGORÍA",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "FULL"
+                },
+                {
+                    "descripcionAtributo": "CANTIDAD DE CAJONES",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "0"
+                },
+                {
+                    "descripcionAtributo": "CANTIDAD DE PUERTAS",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "0"
+                },
+                {
+                    "descripcionAtributo": "CANTIDAD DE SILLAS",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "0"
+                },
+                {
+                    "descripcionAtributo": "CANTIDAD DE COMPARTIMIENTOS",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "0"
+                },
+                {
+                    "descripcionAtributo": "LARGO",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "1,60 MTS"
+                }
+            ],
+            "listaPalabrasClave": [],
+            "detalleProductos": [
+                {
+                    "claveProducto": "99991627179684",
+                    "codigoAlfanumerico": "JUE.SOM.SUP.140X190N",
+                    "color": "NEGRO",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 0,
+                        "precioContadoLista": 0.0,
+                        "precioContadoFinal": 0.0,
+                        "detalleCuotas": [],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                },
+                {
+                    "claveProducto": "99991627179685",
+                    "codigoAlfanumerico": "JUE.SOM.SUP.140X160B",
+                    "color": "BEIGE",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 0,
+                        "precioContadoLista": 0.0,
+                        "precioContadoFinal": 0.0,
+                        "detalleCuotas": [],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clavePadreProducto": "99991627181435",
+            "nombreProducto": "MOTO URBANA TAIGA CR1 DE 150 C.C.",
+            "pathCompletoClasificacion": "MOTOS | URBANAS | TL 150-CR1 | MOTOS NACIONALES - 0KM",
+            "descripcionClasificacion": "MOTOS NACIONALES - 0KM",
+            "descripcionProducto": "Diseño deportivo con la moto Taiga CR1 urbana con motor de 150 c.c. Posee caja 5ta diseñada y preparada para acompañarte a cualquier ciudad con un rendimiento excelente. Estabilidad única y cero vibraciones ya que cuenta con amortiguador trasero con espiral regulable y amortiguador delantero hidráulico telescópico. Faro trasero y señaleros LED, también cuenta con tablero digital. Encendido eléctrico. Freno delantero a disco preparado para una reacción inmediata. Con conector USB. Diseño exclusivo para viajes en ruta, ideal para vos. El Chasis está construido en aleación de Acero 1068 y Carbono, por esta razón el chasis Taiga es más resistente y liviano. Las piezas unidas quedan protegidas por un gas inerte.<BR>Estamos seguros de nuestra alta calidad, por eso podemos ofrecer la mejor y única garantía escrita del mercado, TAIGA 15.000 km de garantía total \"La mejor garantía no la da quien quiere, sino quien puede\"<BR>La compra de esta motocicleta conlleva costos adicionales: los costos de Tasas de Verificación y Chapa serán cobrados por Inverfin y pagados al Registro del Automotor según la legislación vigente. Estos costos adicionales se sumarán en la página del Checkout al tener seleccionada una moto en el carrito.",
+            "resumenProducto": "Moto urbana CR1 Taiga con un motor OHV de 150 C.C. de 4 tiempos, 5 cambios con embrague, encendido CDI (Ignición por Descarga de Condensador), eléctrico y a pedal, amortiguador trasero con espiral regulable y amortiguador delantero hidráulico telescópico, freno delantero a disco, faro trasero y señaleros LED, tablero digital. Una moto diseñada para quienes les gusta el viaje en ruta, de largo y corto kilometraje.",
+            "marcaProducto": "TAIGA",
+            "listaAtributos": [
+                {
+                    "descripcionAtributo": "CILINDRADA",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "150 CC"
+                },
+                {
+                    "descripcionAtributo": "CAJA",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "5TA"
+                },
+                {
+                    "descripcionAtributo": "LLANTAS",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "ALEACIÓN"
+                },
+                {
+                    "descripcionAtributo": "FRENO A DISCO",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "1"
+                },
+                {
+                    "descripcionAtributo": "POTENCIA DEL MOTOR",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "11 HP"
+                },
+                {
+                    "descripcionAtributo": "CAPACIDAD DE TANQUE",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "14 LTS"
+                }
+            ],
+            "listaPalabrasClave": [
+                {
+                    "descripcionPalabraClave": "moto"
+                },
+                {
+                    "descripcionPalabraClave": "moto taiga"
+                },
+                {
+                    "descripcionPalabraClave": "moto urbana"
+                },
+                {
+                    "descripcionPalabraClave": "motos urbanas"
+                },
+                {
+                    "descripcionPalabraClave": "moto para ciudad"
+                }
+            ],
+            "detalleProductos": [
+                {
+                    "claveProducto": "99991627181438",
+                    "codigoAlfanumerico": "TL.150.CR1.STAN.RO",
+                    "color": "ROJO",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 13930101,
+                        "precioContadoLista": 10896000.0,
+                        "precioContadoFinal": 8930000.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 30,
+                                "montoCuota": 479000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 12,
+                                "montoCuota": 908000.0
+                            }
+                        ],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                },
+                {
+                    "claveProducto": "99991627181437",
+                    "codigoAlfanumerico": "TL.150.CR1.STAN.VE",
+                    "color": "VERDE",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 13930101,
+                        "precioContadoLista": 10896000.0,
+                        "precioContadoFinal": 8930000.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 30,
+                                "montoCuota": 479000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 12,
+                                "montoCuota": 908000.0
+                            }
+                        ],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                },
+                {
+                    "claveProducto": "99991627181439",
+                    "codigoAlfanumerico": "TL.150.CR1.STAN.AZ",
+                    "color": "AZUL",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 13930101,
+                        "precioContadoLista": 10896000.0,
+                        "precioContadoFinal": 8930000.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 30,
+                                "montoCuota": 479000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 12,
+                                "montoCuota": 908000.0
+                            }
+                        ],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                },
+                {
+                    "claveProducto": "99991627181436",
+                    "codigoAlfanumerico": "TL.150.CR1.STAN.NE",
+                    "color": "NEGRO",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 13930101,
+                        "precioContadoLista": 10896000.0,
+                        "precioContadoFinal": 8930000.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 30,
+                                "montoCuota": 479000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 12,
+                                "montoCuota": 908000.0
+                            }
+                        ],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clavePadreProducto": "99991627479770",
+            "nombreProducto": "CELULAR SAMSUNG A20S DE 64 GB",
+            "pathCompletoClasificacion": "TECNOLOGÍA | SMARTPHONES",
+            "descripcionClasificacion": "SMARTPHONES",
+            "descripcionProducto": "El teléfono celular Samsung A20S tiene una pantalla de 6,4 pulgadas con infinity-V HD+ para ver más del mundo. Su diseño ergonómico se acomoda en tus manos La cámara principal del Galaxy A20s es triple, con sensores de 13MP + 8MP + 5MP, mientras que su cámara selfie es de 8 megapixels. Pensando en una vida activa este celular es ideal para acompañarte gracias a su batería de 4000 mAh te proporciona energía suficiente para reproducir contenidos, compartir y jugar durante horas lector de huellas capacitivo, y corriendo Android 9.0.",
+            "resumenProducto": "El teléfono celular Samsung A20S tiene una pantalla de 6,5 pulgadas con infinity-V HD+ para ver más del mundo. Su diseño ergonómico se acomoda en tus manos La cámara principal del Galaxy A20s es triple, con sensores de 13MP + 8MP + 5MP, mientras que su cámara selfie es de 8 megapixels.",
+            "marcaProducto": "SAMSUNG",
+            "listaAtributos": [
+                {
+                    "descripcionAtributo": "TAMAÑO",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "6,5\""
+                },
+                {
+                    "descripcionAtributo": "MEMORIA INTERNA",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "64 GB"
+                },
+                {
+                    "descripcionAtributo": "MEMORIA RAM",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "4 GB"
+                },
+                {
+                    "descripcionAtributo": "RESOLUCIÓN DE CÁMARA (TRASERA)",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "13MP + 8MP + 5MP"
+                },
+                {
+                    "descripcionAtributo": "CODIGO_MPN",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "A20S"
+                },
+                {
+                    "descripcionAtributo": "PROCESADOR",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "OCTA CORE 1.8 GHZ"
+                },
+                {
+                    "descripcionAtributo": "RESOLUCIÓN",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": " 720 x 1560"
+                },
+                {
+                    "descripcionAtributo": "RESOLUCIÓN DE CÁMARA (FRONTAL)",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "8 MP"
+                },
+                {
+                    "descripcionAtributo": "PESO",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "183 GR"
+                },
+                {
+                    "descripcionAtributo": "CAPACIDAD DE BATERÍA",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "4000 MAH"
+                },
+                {
+                    "descripcionAtributo": "MEMORIA EXTERNA",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "512 GB"
+                },
+                {
+                    "descripcionAtributo": "CONEXIÓN",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "WIFI/BLUETOOTH"
+                },
+                {
+                    "descripcionAtributo": "ALTO",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "163.3 MM"
+                },
+                {
+                    "descripcionAtributo": "ANCHO",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "8 MM"
+                },
+                {
+                    "descripcionAtributo": "LARGO",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "77.5 MM "
+                }
+            ],
+            "listaPalabrasClave": [
+                {
+                    "descripcionPalabraClave": "celular"
+                },
+                {
+                    "descripcionPalabraClave": "celular samsung"
+                },
+                {
+                    "descripcionPalabraClave": "samsun"
+                },
+                {
+                    "descripcionPalabraClave": "samsung"
+                },
+                {
+                    "descripcionPalabraClave": "teléfono celular"
+                }
+            ],
+            "detalleProductos": [
+                {
+                    "claveProducto": "99991627181604",
+                    "codigoAlfanumerico": "TEL.CEL.SAM.A20S.AZ",
+                    "color": "AZUL",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 35523,
+                        "precioContadoLista": 2011000.0,
+                        "precioContadoFinal": 1508000.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 9,
+                                "montoCuota": 230000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 11,
+                                "montoCuota": 199000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 13,
+                                "montoCuota": 178000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 15,
+                                "montoCuota": 158000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 6,
+                                "montoCuota": 335000.0
+                            }
+                        ],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                },
+                {
+                    "claveProducto": "99991627479769",
+                    "codigoAlfanumerico": "TEL.CEL.SAM.A20S.ROJ",
+                    "color": "ROJO",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 35543,
+                        "precioContadoLista": 2011000.0,
+                        "precioContadoFinal": 1508000.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 9,
+                                "montoCuota": 230000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 11,
+                                "montoCuota": 199000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 13,
+                                "montoCuota": 178000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 15,
+                                "montoCuota": 158000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 6,
+                                "montoCuota": 335000.0
+                            }
+                        ],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clavePadreProducto": "99991627489585",
+            "nombreProducto": "ASIENTO CHICCO NEXTFIT ZIP",
+            "pathCompletoClasificacion": "INFANTILES | BABY SEAT",
+            "descripcionClasificacion": "BABY SEAT",
+            "descripcionProducto": "",
+            "resumenProducto": "El NextFit Zip está diseñado para rodear a su pequeño con comodidad y seguridad, desde el primer día hasta el preescolar y más allá. La instalación reconfortantemente fácil y los puntos de contacto fáciles de usar simplifican los viajes y la vida cotidiana, lo que facilita que las familias vayan y crezcan juntas.",
+            "marcaProducto": "CHICCO",
+            "listaAtributos": [
+                {
+                    "descripcionAtributo": "CAPACIDAD MÁXIMA",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "30 KG"
+                },
+                {
+                    "descripcionAtributo": "COLOR",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "GRIS"
+                }
+            ],
+            "listaPalabrasClave": [
+                {
+                    "descripcionPalabraClave": "CHICCO"
+                },
+                {
+                    "descripcionPalabraClave": "CHICCO PARAGUAY"
+                },
+                {
+                    "descripcionPalabraClave": "CHICCO PY"
+                },
+                {
+                    "descripcionPalabraClave": "PRODUCTOS CHICCO"
+                },
+                {
+                    "descripcionPalabraClave": "SILLA PARA BEBÉ"
+                },
+                {
+                    "descripcionPalabraClave": "SILLA PARA BEBE"
+                },
+                {
+                    "descripcionPalabraClave": "BABY SEAT"
+                },
+                {
+                    "descripcionPalabraClave": "SILLA PARA AUTO"
+                },
+                {
+                    "descripcionPalabraClave": "SILLA PARA BEBÉ AUTO"
+                },
+                {
+                    "descripcionPalabraClave": "SILLA CHICCO"
+                },
+                {
+                    "descripcionPalabraClave": "ASIENTO DE VIAJE"
+                },
+                {
+                    "descripcionPalabraClave": "ASIENTO VIAJERO"
+                },
+                {
+                    "descripcionPalabraClave": "ASIENTO PARA AUTO"
+                },
+                {
+                    "descripcionPalabraClave": "BABY SEAT CHICCO"
+                },
+                {
+                    "descripcionPalabraClave": "CAR SEAT"
+                },
+                {
+                    "descripcionPalabraClave": "BABY CAR"
+                },
+                {
+                    "descripcionPalabraClave": "ASIENTO PARA BEBÉ"
+                },
+                {
+                    "descripcionPalabraClave": "ASIENTO PARA BEBE"
+                },
+                {
+                    "descripcionPalabraClave": "BABY CAR SEAT"
+                },
+                {
+                    "descripcionPalabraClave": "BABY CAR SET"
+                },
+                {
+                    "descripcionPalabraClave": "ASIENTO PARA BB"
+                }
+            ],
+            "detalleProductos": [
+                {
+                    "claveProducto": "99991627489585",
+                    "codigoAlfanumerico": "ASI.CHI.NEX.ZIP.GRI",
+                    "color": "GRIS",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 70216,
+                        "precioContadoLista": 4692000.0,
+                        "precioContadoFinal": 3519000.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 9,
+                                "montoCuota": 545000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 11,
+                                "montoCuota": 467000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 13,
+                                "montoCuota": 406000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 15,
+                                "montoCuota": 361000.0
+                            },
+                            {
+                                "entrega": 0.0,
+                                "plazo": 6,
+                                "montoCuota": 782000.0
+                            }
+                        ],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clavePadreProducto": "99991627490769",
+            "nombreProducto": "MOTO BENELLI LEONCINO 800 TRAIL 2023",
+            "pathCompletoClasificacion": "MOTOS | TRAIL | ARIZONA TL 200-2T | MOTOS NACIONALES - 0KM",
+            "descripcionClasificacion": "MOTOS NACIONALES - 0KM",
+            "descripcionProducto": "La familia Leoncino se agranda gracias a la Leoncino 800 Trail. Una moto que continúa el legado de la familia Leoncino con un estilo único, ahora con un motor bicilíndrico en línea refrigerado por agua y que entrega una potencia de 76,2CV a 8500 rpm. Con un estilo Scrambler muy marcado gacias a su tubo de escape elevado, sus neumáticos de tacos y sus llantas de aluminio reforzadas a rayos, sus ruedas se componen de nuemáticos Pirelli Scorpion SRT  120/70 R19 adelante y 170/60 R17 detrás. A esto hay que sumarle su iluminación completamente LED y un tablero completamente digital con tecnología TFT de última generación. **Aplica un pago inicial seguido de 36 cuotas iguales en dólares americanos.",
+            "resumenProducto": "La familia Leoncino se agranda gracias a la Leoncino 800 Trail. Una moto que continúa el legado de la familia Leoncino con un estilo único, ahora con un motor bicilíndrico en línea refrigerado por agua y que entrega una potencia de 76,2CV a 8500 rpm. Con un estilo Scrambler muy marcado gacias a su tubo de escape elevado, sus neumáticos de tacos y sus llantas de aluminio reforzadas a rayos, sus ruedas se componen de nuemáticos Pirelli Scorpion SRT  120/70 R19 adelante y 170/60 R17 detrás. A esto hay que sumarle su iluminación completamente LED y un tablero completamente digital con tecnología T",
+            "marcaProducto": "BENELLI",
+            "listaAtributos": [
+                {
+                    "descripcionAtributo": "COMBUSTIBLE",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "NAFTA"
+                },
+                {
+                    "descripcionAtributo": "TIPO DE MOTOR",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "DOHC, 754 CC, BICILINDRICO, 4T"
+                },
+                {
+                    "descripcionAtributo": "POTENCIA",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "S",
+                    "valorProductoAtributo": "76 HP"
+                },
+                {
+                    "descripcionAtributo": "CAPACIDAD DE TANQUE",
+                    "indicadorAtributoFichaTecnica": "S",
+                    "indicadorAtributoFiltrable": "N",
+                    "valorProductoAtributo": "15 LTS"
+                }
+            ],
+            "listaPalabrasClave": [],
+            "detalleProductos": [
+                {
+                    "claveProducto": "99991627491522",
+                    "codigoAlfanumerico": "LEONCINO.8.2023.PA",
+                    "color": "PLATEADO",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 17650101,
+                        "precioContadoLista": 13296.0,
+                        "precioContadoFinal": 11490.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 37,
+                                "montoCuota": 395.0
+                            }
+                        ],
+                        "moneda": "U$"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                },
+                {
+                    "claveProducto": "99991627490770",
+                    "codigoAlfanumerico": "LEONCINO.8.2023.PL",
+                    "color": "PLATA",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 17650101,
+                        "precioContadoLista": 13296.0,
+                        "precioContadoFinal": 11490.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 37,
+                                "montoCuota": 395.0
+                            }
+                        ],
+                        "moneda": "U$"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                },
+                {
+                    "claveProducto": "99991627490771",
+                    "codigoAlfanumerico": "LEONCINO.8.2023.VE",
+                    "color": "VERDE",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 17650101,
+                        "precioContadoLista": 13296.0,
+                        "precioContadoFinal": 11490.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 37,
+                                "montoCuota": 395.0
+                            }
+                        ],
+                        "moneda": "U$"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clavePadreProducto": "99991627490772",
+            "nombreProducto": "",
+            "pathCompletoClasificacion": "MOTOS | TRAIL | ARIZONA TL 200-2T | MOTOS NACIONALES - 0KM",
+            "descripcionClasificacion": "MOTOS NACIONALES - 0KM",
+            "descripcionProducto": "",
+            "resumenProducto": "",
+            "marcaProducto": "BENELLI",
+            "listaAtributos": [],
+            "listaPalabrasClave": [],
+            "detalleProductos": [
+                {
+                    "claveProducto": "99991627490773",
+                    "codigoAlfanumerico": "TNT135.2023.NE",
+                    "color": "NEGRO",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 17720101,
+                        "precioContadoLista": 3498.0,
+                        "precioContadoFinal": 3100.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 37,
+                                "montoCuota": 105.0
+                            }
+                        ],
+                        "moneda": "U$"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                },
+                {
+                    "claveProducto": "99991627490774",
+                    "codigoAlfanumerico": "TNT135.2023.VE",
+                    "color": "VERDE",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 17720101,
+                        "precioContadoLista": 3498.0,
+                        "precioContadoFinal": 3100.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 37,
+                                "montoCuota": 105.0
+                            }
+                        ],
+                        "moneda": "U$"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "clavePadreProducto": "99991627490778",
+            "nombreProducto": "MOTO BENELLI TNT 25N 2023",
+            "pathCompletoClasificacion": "MOTOS | TRAIL | ARIZONA TL 200-2T | MOTOS NACIONALES - 0KM",
+            "descripcionClasificacion": "MOTOS NACIONALES - 0KM",
+            "descripcionProducto": "Moto Benelli TNTN 2023 con motor DOHC, 4 tiempos, 4 válvulas. Cilindrada 249 CC. Potencia 26 HP. Chasis Tubular. Capacidad de tanque 17 litros. Inyección electrónica. Transmisión 6 velocidades. Frenos delanteros y traseros a disco lobulados. Tablero digital. Refrigeración líquida con electro ventildor. Suspensiones: Delantera con horquilla invertida, trasera monoshock ajustable. Llantas de aleación.v",
+            "resumenProducto": "Moto Benelli TNTN 2023 con motor DOHC, 4 tiempos, 4 válvulas. Cilindrada 249 CC. Potencia 26 HP. Chasis Tubular. Capacidad de tanque 17 litros. Inyección electrónica. Transmisión 6 velocidades. Frenos delanteros y traseros a disco lobulados. Tablero digital. Refrigeración líquida con electro ventildor. Suspensiones: Delantera con horquilla invertida, trasera monoshock ajustable. Llantas de aleación.",
+            "marcaProducto": "BENELLI",
+            "listaAtributos": [],
+            "listaPalabrasClave": [],
+            "detalleProductos": [
+                {
+                    "claveProducto": "99991627490779",
+                    "codigoAlfanumerico": "TNT.25N.2023.BL",
+                    "color": "BLANCO",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 17610101,
+                        "precioContadoLista": 28500000.0,
+                        "precioContadoFinal": 25650000.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 37,
+                                "montoCuota": 980000.0
+                            }
+                        ],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                },
+                {
+                    "claveProducto": "99991627490822",
+                    "codigoAlfanumerico": "TNT.25N.2023.NA",
+                    "color": "NEGRO/ROJO",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 17610101,
+                        "precioContadoLista": 28500000.0,
+                        "precioContadoFinal": 25650000.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 37,
+                                "montoCuota": 980000.0
+                            }
+                        ],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                },
+                {
+                    "claveProducto": "99991627492208",
+                    "codigoAlfanumerico": "TNT.25N.2023.VE",
+                    "color": "VERDE",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 17610101,
+                        "precioContadoLista": 28500000.0,
+                        "precioContadoFinal": 25650000.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 37,
+                                "montoCuota": 980000.0
+                            }
+                        ],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                },
+                {
+                    "claveProducto": "99991627490780",
+                    "codigoAlfanumerico": "TNT.25N.2023.NE",
+                    "color": "NEGRO",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 17610101,
+                        "precioContadoLista": 28500000.0,
+                        "precioContadoFinal": 25650000.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 37,
+                                "montoCuota": 980000.0
+                            }
+                        ],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                },
+                {
+                    "claveProducto": "99991627490781",
+                    "codigoAlfanumerico": "TNT.25N.2023.RO",
+                    "color": "ROJO",
+                    "listaImagenes": [
+                        {
+                            "url": "https://conceptdraw.com/a2247c3/p14/preview/640/pict--image-wireframe-vector-stencils-library"
+                        }
+                    ],
+                    "precio": {
+                        "claveListaPrecio": 17610101,
+                        "precioContadoLista": 28500000.0,
+                        "precioContadoFinal": 25650000.0,
+                        "detalleCuotas": [
+                            {
+                                "entrega": 0.0,
+                                "plazo": 37,
+                                "montoCuota": 980000.0
+                            }
+                        ],
+                        "moneda": "Gs"
+                    },
+                    "stock": [
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 12,
+                            "descripcionDeposito": "DEP YGUAZU",
+                            "indicadorDepositoPrincipalSucursal": "S",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 1
+                        },
+                        {
+                            "idSucursal": 12,
+                            "idDeposito": 80,
+                            "descripcionDeposito": "DM YGUAZY",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "N",
+                            "existencia": 0
+                        },
+                        {
+                            "idSucursal": 85,
+                            "idDeposito": 85,
+                            "descripcionDeposito": "DEPOSITO LUQUE",
+                            "indicadorDepositoPrincipalSucursal": "N",
+                            "indicadorDepositoRegional": "S",
+                            "existencia": 3
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
