@@ -1,5 +1,8 @@
 
-import fs from 'fs';
+// import fs from 'fs';
+import {createRequire} from 'module';
+
+const require = createRequire(import.meta.url);
 
 export const getAllProducts = (req, res) => {
 
@@ -17,9 +20,11 @@ export const getAllProducts = (req, res) => {
             });
         }
 
-        const filePath = './static/data.json';
-        const data = fs.readFileSync(filePath, 'utf-8');
-        res.status(200).json(JSON.parse(data));
+        // const filePath = './static/data.json';
+        // const data = fs.readFileSync(filePath, 'utf-8');
+        const data = require('../../static/data.json');
+        //console.log(data);
+        res.status(200).json(data);
 
     } catch (error) {
         return res.status(200).json({ 
